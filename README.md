@@ -2,8 +2,6 @@
 
 A multi-class sentiment classifier that maps unstructured text (tweets) into **negative**, **neutral** or **positive** classes. The pipeline uses NLTK for preprocessing (stop-word removal and lemmatization), TF-IDF for feature extraction, and Scikit-Learn linear models for classification, evaluated with F1-score metrics.
 
-[![Open In Colab](https://colab.research.google.com/drive/1m5K_892GbE4ZmAtjEQM7XnoCY6a-RbRE?usp=sharing)
-
 ## Table of Contents
 
 - [Overview](#overview)
